@@ -9,5 +9,6 @@ playwright-report/
 .tools/
 discovery-v3/raw/
 reports/
+out/
 playwright-report/
 test-results/

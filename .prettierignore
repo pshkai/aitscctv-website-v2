@@ -1,0 +1,15 @@
+node_modules
+.next
+.tools
+reports
+playwright-report
+test-results
+pnpm-lock.yaml
+public
+content-inventory.json
+redirect-map.json
+CONTENT-MIGRATION.md
+next-env.d.ts
+
+discovery-v3
+CONTENT-PRESERVATION-MATRIX.md

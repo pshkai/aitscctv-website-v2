@@ -1,0 +1,261 @@
+[
+  {
+    "oldUrl": "https://aitscctv.com/about-us/",
+    "newDestination": "/about/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/access-control-system/",
+    "newDestination": "/solutions/access-control/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/access-control-system/card-scanner/",
+    "newDestination": "/solutions/access-control/card-access/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/access-control-system/fingerprint-scanner/",
+    "newDestination": "/solutions/access-control/biometric/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/access-control-system/key-card-door/",
+    "newDestination": "/solutions/access-control/card-access/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/access-control/",
+    "newDestination": "/projects/industrial-access/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/access-point-for-university/",
+    "newDestination": "/projects/university-network/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/blog/",
+    "newDestination": "/resources/library/",
+    "status": 301,
+    "action": "Rewrite",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/cctv-camera-service/",
+    "newDestination": "/solutions/cctv/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/cctv-camera-service/eight-cctv-camera/",
+    "newDestination": "/solutions/cctv/packages/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/cctv-camera-service/four-cctv-camera/",
+    "newDestination": "/solutions/cctv/packages/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/cctv-camera-service/sixteen-cctv-camera/",
+    "newDestination": "/solutions/cctv/packages/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/cctv-rental-service/",
+    "newDestination": "/solutions/cctv/rental/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/cctv-service/",
+    "newDestination": "/solutions/cctv/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/fingerprint-scanner/",
+    "newDestination": "/solutions/access-control/biometric/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/home-automation/",
+    "newDestination": "/solutions/automation/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/home-renovation/",
+    "newDestination": "/solutions/building-services/renovation/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/internet-system/",
+    "newDestination": "/solutions/networking/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/internet-system/access-point/",
+    "newDestination": "/solutions/networking/access-points/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/internet-system/wi-fi/",
+    "newDestination": "/solutions/networking/business-wifi/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/lan-cable/",
+    "newDestination": "/solutions/networking/lan-cabling/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/let-aits-set-standard/",
+    "newDestination": "/about/installation-standards/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/line/",
+    "newDestination": "/contact/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/network-service/",
+    "newDestination": "/solutions/networking/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/network-service/fiberoptic-cable/",
+    "newDestination": "/solutions/networking/fiber-optic/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/network-service/lan-cable/",
+    "newDestination": "/solutions/networking/lan-cabling/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/our-standard/",
+    "newDestination": "/projects/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/questions/",
+    "newDestination": "/request-site-survey/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/security-system/",
+    "newDestination": "/solutions/security/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/smart-meeting-room/",
+    "newDestination": "/solutions/meeting-rooms/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/solar-cell-system/",
+    "newDestination": "/solutions/building-services/solar/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/telephone-system/",
+    "newDestination": "/solutions/networking/telephone/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/upgrade-cctv/",
+    "newDestination": "/projects/cctv-upgrade/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/user-manual/",
+    "newDestination": "/support/manuals/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/video/",
+    "newDestination": "/resources/videos/",
+    "status": 301,
+    "action": "Rewrite",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/warranty/",
+    "newDestination": "/support/warranty/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/window-film/",
+    "newDestination": "/solutions/building-services/window-film/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  }
+]

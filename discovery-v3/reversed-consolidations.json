@@ -1,0 +1,86 @@
+[
+  {
+    "oldUrl": "https://aitscctv.com/access-control-system-1/",
+    "newDestination": "/resources/access-planning/",
+    "status": 301,
+    "action": "Rewrite",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/ai-cctv-2/",
+    "newDestination": "/resources/camera-selection/",
+    "status": 301,
+    "action": "Rewrite",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/ai-cctv/",
+    "newDestination": "/resources/camera-selection/",
+    "status": 301,
+    "action": "Rewrite",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/cctv-installation/",
+    "newDestination": "/resources/cctv-planning/",
+    "status": 301,
+    "action": "Rewrite",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/install-cctv/",
+    "newDestination": "/resources/cctv-planning/",
+    "status": 301,
+    "action": "Rewrite",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/installation-of-cctv/",
+    "newDestination": "/resources/cctv-planning/",
+    "status": 301,
+    "action": "Rewrite",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/office-cctv/",
+    "newDestination": "/industries/offices/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/smart-energy-optimization-2/",
+    "newDestination": "/resources/automation-planning/",
+    "status": 301,
+    "action": "Rewrite",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/smart-energy-optimization/",
+    "newDestination": "/resources/automation-planning/",
+    "status": 301,
+    "action": "Rewrite",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/smart-factory/",
+    "newDestination": "/industries/factories/",
+    "status": 301,
+    "action": "Preserve / Split",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/smart-home-9/",
+    "newDestination": "/resources/automation-planning/",
+    "status": 301,
+    "action": "Rewrite",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  },
+  {
+    "oldUrl": "https://aitscctv.com/smart-home/",
+    "newDestination": "/resources/automation-planning/",
+    "status": 301,
+    "action": "Rewrite",
+    "reason": "Mapped to the closest restored topic; source prices and conditions are preserved with dates and qualification."
+  }
+]

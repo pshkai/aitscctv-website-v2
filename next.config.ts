@@ -1,10 +1,13 @@
 import type { NextConfig } from 'next';
 import redirects from './redirect-map.json';
+const isGitHubPages = process.env.GITHUB_PAGES === 'true';
 const config: NextConfig = {
+  ...(isGitHubPages ? { output: 'export' as const, basePath: '/aitscctv-website-v2' } : {}),
   trailingSlash: true,
   poweredByHeader: false,
-  images: { formats: ['image/avif', 'image/webp'] },
+  images: { formats: ['image/avif', 'image/webp'], ...(isGitHubPages ? { unoptimized: true } : {}) },
   async redirects() {
+    if (isGitHubPages) return [];
     return redirects.map((r) => ({
       source: new URL(r.oldUrl).pathname,
       destination: r.newDestination,
